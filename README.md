@@ -1,5 +1,4 @@
 <br clear="both">
-###
 
 <h1 align="center">Hola👋 me llamo Denis!</h1>
 
@@ -10,7 +9,9 @@
 
 ###
 
-<p align="left">Я начинающий Frontend разработчик. Мой путь в it начался со Школы 21 от Сбера, где я прошел интенсив. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила Frontend разработка! С мая 2022 года по апрель 2023 я изучал Frontend разработку на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе завершено и я нашел свою первую работу!<br><br>- 🔭 Участвовал в бассейне Школы 21 от Сбера.<br>- 📚 Завершил курсы по веб-разработке Яндекс Практикум!<br>- ⚡ Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.</p>
+<p align="center">Soy desarrollador en formación con enfoque en backend con Python. Actualmente estoy cursando el Python Developer Bootcamp de Yandex, un programa intensivo donde he adquirido experiencia práctica en Python avanzado, Django, FastAPI, desarrollo y consumo de APIs REST, PostgreSQL, programación asincrónica, despliegue de proyectos en servidores remotos y trabajo con microservicios. También he trabajado en proyectos prácticos individuales y en equipo, aplicando buenas prácticas de código, testing y control de versiones.
+
+Anteriormente estudié ciberseguridad en la Academia Hack4u, donde adquirí conocimientos en pentesting, Python ofensivo, análisis de vulnerabilidades, seguridad en aplicaciones web, redes, seguridad en la nube, criptografía y análisis forense digital. Esto me permite tener un enfoque complementario, entendiendo tanto el desarrollo como la seguridad de las aplicaciones que construyo.</p>
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
@@ -38,7 +39,7 @@
 
 ###
 
-<h3 align="left">🔥   Mis estadísticas :</h3>
+<h3 align="center">🔥   Mis estadísticas :</h3>
 
 ###
 
