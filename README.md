@@ -14,7 +14,7 @@
 
 Anteriormente estudié ciberseguridad en la Academia Hack4u, donde adquirí conocimientos en pentesting, Python ofensivo, análisis de vulnerabilidades, seguridad en aplicaciones web, redes, seguridad en la nube, criptografía y análisis forense digital. Esto me permite tener un enfoque complementario, entendiendo tanto el desarrollo como la seguridad de las aplicaciones que construyo.</p>
 
-<h3 align="center">🛠 Stack:</h3>
+<h3 align="center">🛠 Skills:</h3>
 
 ###
 
@@ -37,7 +37,9 @@ Anteriormente estudié ciberseguridad en la Academia Hack4u, donde adquirí cono
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rest" height="40" alt="rest logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="rest tailwind"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=doker" height="40" alt="doker logo"  />
   <img width="12" />
 </div>
 
