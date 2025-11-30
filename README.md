@@ -39,7 +39,7 @@ Anteriormente estudié ciberseguridad en la Academia Hack4u, donde adquirí cono
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="rest tailwind"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=doker" height="40" alt="doker logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
 </div>
 
