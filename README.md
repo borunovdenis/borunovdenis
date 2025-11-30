@@ -29,7 +29,7 @@ Anteriormente estudié ciberseguridad en la Academia Hack4u, donde adquirí cono
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="postgresql logo"  />
 </div>
 
 ###
