@@ -1,9 +1,4 @@
 <br clear="both">
-
-<div align="center">
-  <iframe src="https://giphy.com/embed/h0Cq1ClzO3UpupFPjP" width="480" height="274" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/xbox-xbox-series-x-stanley-the-parable-h0Cq1ClzO3UpupFPjP">via GIPHY</a></p>
-</div>
-
 ###
 
 <h1 align="center">Hola👋 me llamo Denis!</h1>
@@ -23,11 +18,11 @@
 
 ###
 
-<h3 align="left">🛠 Stack:</h3>
+<h3 align="center">🛠 Stack:</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
