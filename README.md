@@ -5,7 +5,7 @@
 ###
 
 
-<h3 align="left">👩‍💻  Sobre mi</h3>
+<h3 align="center">👩‍💻  Sobre mi</h3>
 
 ###
 
