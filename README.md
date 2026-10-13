@@ -1,10 +1,10 @@
-<h3 align="center">👩‍💻  Sobre mi</h3>
+<h3 align="center">👩‍💻  About me</h3>
 
 ###
 
-<p align="center">Soy desarrollador en formación con enfoque en backend con Python. He completado el Python Developer Bootcamp de Yandex, un programa intensivo donde he adquirido experiencia práctica en Python avanzado, Django, FastAPI, desarrollo y consumo de APIs REST, PostgreSQL, programación asincrónica, despliegue de proyectos en servidores remotos y trabajo con microservicios. También he trabajado en proyectos prácticos individuales y en equipo, aplicando buenas prácticas de código, testing y control de versiones.
+<p align="center">I am an aspiring software developer focused on Python backend development. I have completed the Yandex Python Developer Bootcamp, an intensive program in which I gained hands-on experience with advanced Python, Django, FastAPI, REST API development and consumption, PostgreSQL, asynchronous programming, remote server deployment, and microservices. I have also worked on individual and team-based projects, applying coding best practices, testing, and version control.
 
-Anteriormente estudié ciberseguridad en la Academia Hack4u, donde adquirí conocimientos en pentesting, Python ofensivo, análisis de vulnerabilidades, seguridad en aplicaciones web, redes, seguridad en la nube, criptografía y análisis forense digital. Esto me permite tener un enfoque complementario, entendiendo tanto el desarrollo como la seguridad de las aplicaciones que construyo.</p>
+Previously, I studied cybersecurity at Hack4u Academy, where I developed knowledge of penetration testing, offensive Python, vulnerability analysis, web application security, networking, cloud security, cryptography, and digital forensics. This background gives me a complementary perspective, allowing me to consider both software development and the security of the apps I build.</p>
 
 <h3 align="center">🛠 Skills:</h3>
 
